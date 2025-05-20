@@ -7,5 +7,5 @@ public interface ILogger
 
 public interface IDeliveryRepository
 {
-    Delivery GetDelivery(int deliveryId);
+    Delivery? GetDelivery(int deliveryId);
 }
