@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MockFakeStubDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1714ffa99f8d2332311af332c661d8ff327e246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52386b960a2b51a8355a3144a56a72f96d52f29b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MockFakeStubDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MockFakeStubDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

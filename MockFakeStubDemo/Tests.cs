@@ -7,7 +7,7 @@ namespace MockFakeStubDemo;
 public class Tests
 {
     [Fact]
-    public void Mock_ShouldVerifyInteractionWithLogger()
+    public void Mock()
     {
         // Arrange
         var mockLogger = new Mock<ILogger>();
